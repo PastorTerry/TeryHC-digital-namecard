@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Terry;Cuthbertson;;;
+FN:Terry Cuthbertson 
+ORG:Hope City Church;
+TITLE:Lead Pastor/Church Planter
+EMAIL;type=INTERNET;type=WORK;type=pref:okccityreach@gmail.com
+TEL;type=WORK;type=VOICE:+1 405 698 0225
+item1.ADR;type=WORK;type=pref:;;6001 N Martin Luther King Ave;Oklahoma City;OK; 73111;USA
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:hopecityokc.church
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
